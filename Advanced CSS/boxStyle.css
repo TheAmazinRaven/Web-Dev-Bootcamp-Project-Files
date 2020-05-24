@@ -1,0 +1,18 @@
+/* 5.24.20 */
+
+p {
+/* Content - Width & Height */
+
+    width: 50%;
+
+/* Border */
+
+    border: 2px solid blue;
+
+/* Padding */
+
+    padding: 10px;
+
+/* Margin */
+
+}
