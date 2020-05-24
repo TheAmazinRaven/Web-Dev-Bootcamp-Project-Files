@@ -1,4 +1,4 @@
-# Wev-Dev-Bootcamp-Project-Files
+# Web-Dev-Bootcamp-Project-Files
 
 **5.24.20**
 
