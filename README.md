@@ -6,3 +6,9 @@ Today is 5.24.20, I've been working on the Web Developer Bootcamp every day sinc
 
 
 I am currently on the **Advanced CSS** part of the course learning how to do the box model. (While simultaneously  learning Git o-o;)
+
+
+
+Did Box Model exercise which consisted of more border, margin & padding values
+
+Tic Tac Toe table exercise
