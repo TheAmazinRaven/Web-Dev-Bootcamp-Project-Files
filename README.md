@@ -1,5 +1,9 @@
 # Web-Dev-Bootcamp-Project-Files
 
+**1.3.21**
+
+Completed up to section 4.
+
 **10.24.21**
 
 Back at it again, but this time it's w/ the updated material.
