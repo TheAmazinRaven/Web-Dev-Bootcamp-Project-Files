@@ -64,6 +64,26 @@
                 <option value="steak">Steak</option>
             </select>
         </p>
+        <p>
+            <label for="cheese">Amount of Cheese:</label>
+            <input type="range" id="cheese" min="1" max="10" step="7" value="75" name="cheeseLevel">
+        </p>
+        <p>
+            <label for="">Any special requests?</label>
+                <textarea id="requests" rows="10" cols="20" name="requests" placeholder="Special Requests">
+                </textarea>
+        </p>
+        <button>Submit</button>
+    </form>
+
+    <h2>Validations Demo</h2>
+    <form action="/dummy">
+        <label for="first">Enter First Name:</label>
+        <input type="text" name="first" required>
+        <p>
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" minlength="5" maxlength="20">
+        </p>
         <button>Submit</button>
     </form>
 </body>
